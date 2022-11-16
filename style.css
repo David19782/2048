@@ -4,15 +4,15 @@
     gap: 2px solid black;
     position: absolute;
     background-color: grey;
-    width: 800px;
-    height: 800px;
-    top: 300px;
-    left: 300px;
+    width: 40vw;
+    height: 40vw;
+    top: 15vh;
+    left: 15vw;
 }
 
 .block{
-    width: 200px;
-    height: 200px;
+    width: 10vw;
+    height: 10vw;
     padding-top: 50px;
     color: black;
     box-sizing: border-box;
@@ -24,4 +24,48 @@
     background-color: grey;
     
     
+}
+
+._2{ 
+    background-color: #FFFF99;
+}
+
+._4{
+    background-color: #FFCC99;
+}
+
+._8{
+    background-color: #FF9933;
+}
+
+._16{
+    background-color: #FF8000;
+}
+
+._32{
+    background-color: #66FF66;
+}
+
+._64{
+    background-color: #66FF66;
+}
+
+._128{
+    background-color: #99FFFF;
+}
+
+._256{
+    background-color: #66B2FF;
+}
+
+._512{
+    background-color: #3399FF;
+}
+
+._1024{
+    background-color: #FF66B2;
+}
+
+._2048{
+    background-color: #202020;
 }
